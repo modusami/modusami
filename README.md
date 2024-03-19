@@ -18,10 +18,10 @@ I'm a Computer Science student at VTECH. Welcome to my GitHub profile!
 - [Project Name](link): Brief description.
 
 ## GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/modusami)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=modusami&show_icons=true&theme=radical)](https://github.com/modusami)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)](https://github.com/modusami)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modusami&layout=compact)](https://github.com/modusami)
 
 ## Connect with Me
 - LinkedIn: [](https://www.linkedin.com/in/odusami03/))
