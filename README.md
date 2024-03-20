@@ -16,5 +16,5 @@ I'm a Computer Science student at VTECH. Welcome to my GitHub profile!
 - Tools & Technologies: Git, Postman, LucidCharts
 
 ## Connect with Me
-- LinkedIn: [](https://www.linkedin.com/in/odusami03/))
+- LinkedIn: https://www.linkedin.com/in/odusami03/
 - Email: modusami03@gmail.com
