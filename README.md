@@ -11,7 +11,6 @@ I'm a Computer Science student at VTECH. Welcome to my GitHub profile!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modusami&layout=compact)](https://github.com/modusami)
 
 - Programming Languages: Java, Python, C/C++, JavaScript, Swift
-- Web Development: HTML/CSS, React.js, Spring Boot
 - Frameworks & Libraries: React.js, Spring Boot, JUnit
 - Tools & Technologies: Git, Postman, LucidCharts
 
