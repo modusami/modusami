@@ -41,17 +41,17 @@
 ### BYTES
 🏅 **1st Place Winner** - Accessibility Track at UVA Hackathon
 - Tech Stack: JavaScript, React Native, MongoDB
-- [View Project](https://your-project-link.com)
+- [View Project](https://github.com/modusami/Bytes)
 
 ### Expense Tracker CLI
 - Command-line expense tracker with CRUD functionality
 - Tech Stack: Java, Spring Boot, Spring JPA, Hibernate, MySQL
-- [View Project](https://your-project-link.com)
+- [[View Project](https://github.com/modusami/expense-tracker-cml-app)
 
 ### YUMEX
 - Food forum web application for sharing meals
 - Tech Stack: TypeScript, Next.js, Supabase
-- [View Project](https://your-project-link.com)
+- [View Project](https://github.com/modusami/Yumex)
 
 ## 🏅 Honors & Awards
 - 🥇 1st Place - Accessibility Track, UVA Hoo Hacks Hackathon
