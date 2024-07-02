@@ -59,10 +59,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modusami&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Michael-Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=modusami&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=modusami&color=blueviolet" alt="Profile views">
-</p>
