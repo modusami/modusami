@@ -2,24 +2,19 @@
 
 # Michael-Andre Odusami
 
-### 🚀 Full Stack Developer | 💻 CS Student | 🏆 Hackathon Winner
+### 🚀 Developer | 💻 CS Student | 🏆 Hackathon Winner
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YourLinkedInProfile)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/YourGitHubUsername)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/odusami03/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/modusami)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:modusami03@gmail.com)
 
 <img src="https://media0.giphy.com/media/Mj0gk1wnekXC0/giphy.gif?cid=6c09b9523zyethcayfrj4n0yseqkqf6n6qvswn4t9ct8n40m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cool Programming GIF" width="300" height="200">
 
 </div>
 
-## 👨‍💻 About Me
-
-I'm a passionate Computer Science student with a knack for full-stack development and a love for solving complex problems. When I'm not coding, you can find me winning hackathons or contributing to open-source projects!
-
 ## 🎓 Education
 
-- **Virginia Tech** - B.S. in Computer Science (Transfer, Expected Nov 2025)
-- **LIU Post** - B.S. in Computer Science (May 2021)
+- **Virginia Tech** - B.S. in Computer Science (Expected Fall 2025)
 
 ## 🛠 Tech Stack
 
