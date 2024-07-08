@@ -42,19 +42,19 @@
 
 ## 🏆 Projects
 
-### [Bytes](project-link-here) - 1st Place Hackathon Winner
+### [Bytes](https://github.com/modusami/Bytes) - 1st Place Hackathon Winner
 - Short-term news mobile app with "Reels"-like UI
 - Tech: JavaScript, React Native, MongoDB
 
-### [Expense Tracker CML App](project-link-here)
+### [Expense Tracker CML App](https://github.com/modusami/expense-tracker-cml-app)
 - CRUD command-line expense tracker
 - Tech: Java, Spring Boot, Hibernate, MySQL, Spring Data JPA
 
-### [Yumex](project-link-here)
+### [Yumex](https://github.com/modusami/Yumex)
 - Full-stack food forum for meal discovery and sharing
 - Tech: TypeScript, Next.js, Tailwind, Supabase
 
-### [YouTube Music Playlist API](project-link-here)
+### [YouTube Music Playlist API](https://github.com/modusami/youtube-music-playlist-api)
 - Automated YouTube Music playlist manipulation
 - Tech: Python
 
