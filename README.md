@@ -2,7 +2,7 @@
 
 # Michael-Andre Odusami
 
-### 🚀 Developer | 💻 CS Student | 🏆 Hackathon Winner
+### 🚀 Developer | 💻 CS Student @ Virginia Tech | 🏆 Hackathon Winner
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/odusami03/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/modusami)
@@ -10,13 +10,7 @@
 
 <img src="https://media0.giphy.com/media/Mj0gk1wnekXC0/giphy.gif?cid=6c09b9523zyethcayfrj4n0yseqkqf6n6qvswn4t9ct8n40m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cool Programming GIF" width="300" height="200">
 
-</div>
-
-## 🎓 Education
-
-- **Virginia Tech** - B.S. in Computer Science (Expected Fall 2025)
-
-## 🛠 Tech Stack
+</div><br>
 
 <div align="center">
 
@@ -62,10 +56,6 @@
 - Automated YouTube Music playlist manipulation
 - Tech: Python
 
-## 🌟 Leadership & Affiliations
-
-- CodePath Community Member (2024 - Present)
-- Color Stack Member (2024 - Present)
 
 <div align="center">
 
